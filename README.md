@@ -1,12 +1,12 @@
 # Algorithm
 
-##Leet Code
+## Leet Code
 [1. Two Sum][https://github.com/lattedy/algorithm/blob/master/src/leetcode/easy/TwoSum1.java]
 
 ***
-##BOJ
+## BOJ
 
 
 ***
-##Programmers
+## Programmers
 
