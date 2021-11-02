@@ -1,4 +1,4 @@
-package leetcode.easy.maximumdepthofbinarytree104;
+package leetcode.easy.MaximumDepthOfBinarytree104;
 
 import java.util.LinkedList;
 import java.util.Queue;

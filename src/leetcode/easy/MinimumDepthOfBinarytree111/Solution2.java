@@ -1,4 +1,4 @@
-package leetcode.easy.minimumdepthofbinarytree111;
+package leetcode.easy.MinimumDepthOfBinarytree111;
 
 import java.util.*;
 

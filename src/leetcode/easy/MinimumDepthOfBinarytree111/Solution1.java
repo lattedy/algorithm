@@ -1,4 +1,4 @@
-package leetcode.easy.maximumdepthofbinarytree104;
+package leetcode.easy.MinimumDepthOfBinarytree111;
 
 public class Solution1 {
 	public class TreeNode {
@@ -17,14 +17,15 @@ public class Solution1 {
 	public int dfs(TreeNode now, int d) {
 		if (now.left == null && now.right == null) return d;
 
-		int ret = Integer.MIN_VALUE;
-		if (now.left != null) ret = Math.max(ret, dfs(now.left, d+1));
-		if (now.right != null) ret = Math.max(ret, dfs(now.right, d+1));
+		int ret = Integer.MAX_VALUE;
+		if (now.left != null) ret = Math.min(ret, dfs(now.left, d+1));
+		if (now.right != null) ret = Math.min(ret, dfs(now.right, d+1));
 
 		return ret;
 	}
 
-	public int maxDepth(TreeNode root) {
-		return root==null ? 0 : dfs(root, 1);
+	public int minDepth(TreeNode root) {
+
+		return root==null? 0 : dfs(root, 1);
 	}
 }
