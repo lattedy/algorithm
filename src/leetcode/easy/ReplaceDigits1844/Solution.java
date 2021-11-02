@@ -1,4 +1,4 @@
-package leetcode.easy.replacedigits1844;
+package leetcode.easy.ReplaceDigits1844;
 
 public class Solution {
 	public String replaceDigits(String s) {
