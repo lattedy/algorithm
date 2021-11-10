@@ -12,9 +12,10 @@
 [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/AverageSalary1491)  
 [1884. Replace All Digits with Characters](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/ReplaceDigits1844)
 ### Medium  
-[130. Surrounded Regions](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/SurroundedRegions130)  
-[714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/TimeToBuySellStock714)  
-[1305. All Elements in Two Binary Search Trees](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/AllElementsInTwoBinaryTree1305)
+[122. Best Time to Buy and Sell Stock II](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/TimeToBuySellStockII122)  
+[130. Surrounded Regions](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/SurroundedRegions130)  
+[714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/TimeToBuySellStock714)  
+[1305. All Elements in Two Binary Search Trees](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/AllElementsInTwoBinaryTree1305)
 
 ### Hard  
   
