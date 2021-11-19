@@ -11,6 +11,7 @@
 [404. Sum of Left Leaves](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/SumOfLeftLeaves404)  
 [441. Arranging Coins](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/ArrangingCoins441)  
 [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/AverageSalary1491)  
+[1790. Check if One String Swap Can Make Strings Equal](https://github.com/lattedy/algorithm/tree/master/src/leetcode/CheckifOneStringSwapCanMakeStringsEqual1790)  
 [1884. Replace All Digits with Characters](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/ReplaceDigits1844)
 ### Medium  
 [122. Best Time to Buy and Sell Stock II](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/TimeToBuySellStockII122)  
