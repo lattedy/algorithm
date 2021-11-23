@@ -21,7 +21,7 @@
 [1305. All Elements in Two Binary Search Trees](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/AllElementsInTwoBinaryTree1305)
 
 ### Hard  
-  
+[952. Largest Component Size by Common Factor]()
 ***
 ## BOJ
 
