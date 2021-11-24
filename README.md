@@ -16,7 +16,8 @@
 [1884. Replace All Digits with Characters](https://github.com/lattedy/algorithm/tree/master/src/leetcode/easy/ReplaceDigits1844)
 ### Medium  
 [122. Best Time to Buy and Sell Stock II](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/TimeToBuySellStockII122)  
-[130. Surrounded Regions](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/SurroundedRegions130)  
+[130. Surrounded Regions](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/SurroundedRegions130)
+[450. Delete Node in a BST](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/DeleteNodeinBST450)  
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/TimeToBuySellStock714)  
 [1305. All Elements in Two Binary Search Trees](https://github.com/lattedy/algorithm/tree/master/src/leetcode/medium/AllElementsInTwoBinaryTree1305)
 
